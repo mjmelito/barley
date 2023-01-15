@@ -1,0 +1,10 @@
+.photo {
+  width: 48vw;
+  float: left;
+}
+
+.column {
+  background-color: rgb(224, 146, 162);
+  color: white;
+  width: 90vw;
+  }
